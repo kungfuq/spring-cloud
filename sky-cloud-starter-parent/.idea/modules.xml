@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sky-cloud-base/sky-cloud-base.iml" filepath="$PROJECT_DIR$/sky-cloud-base/sky-cloud-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sky-cloud-starter-parent.iml" filepath="$PROJECT_DIR$/sky-cloud-starter-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/skycloudbase/skycloudbase.iml" filepath="$PROJECT_DIR$/skycloudbase/skycloudbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sky-cloud-commons/skycloudcommons.iml" filepath="$PROJECT_DIR$/sky-cloud-commons/skycloudcommons.iml" />
+    </modules>
+  </component>
+</project>

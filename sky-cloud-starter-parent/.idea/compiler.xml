@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sky-cloud-base" />
+        <module name="skycloudbase" />
+        <module name="skycloudcommons" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sky-cloud-base" target="1.8" />
+      <module name="sky-cloud-starter-parent" target="1.8" />
+      <module name="skycloudbase" target="1.8" />
+      <module name="skycloudcommons" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
